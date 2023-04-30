@@ -1,0 +1,11 @@
+--2020-09-21 09:46:50--  https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.0.0/tensorflow-2.0.0-cp37-none-linux_armv7l.whl
+Resolving github.com (github.com)... 140.82.113.3
+Connecting to github.com (github.com)|140.82.113.3|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github-production-release-asset-2e65be.s3.amazonaws.com/99042851/66981d80-e93e-11e9-9767-a5ca3d6fe681?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T084651Z&X-Amz-Expires=300&X-Amz-Signature=640fab6e08c1f622c9a9f1846948a37732cc00d798463456568cc6ae8f939c81&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=99042851&response-content-disposition=attachment%3B%20filename%3Dtensorflow-2.0.0-cp37-none-linux_armv7l.whl&response-content-type=application%2Foctet-stream [following]
+--2020-09-21 10:16:28--  https://github-production-release-asset-2e65be.s3.amazonaws.com/99042851/66981d80-e93e-11e9-9767-a5ca3d6fe681?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T084651Z&X-Amz-Expires=300&X-Amz-Signature=640fab6e08c1f622c9a9f1846948a37732cc00d798463456568cc6ae8f939c81&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=99042851&response-content-disposition=attachment%3B%20filename%3Dtensorflow-2.0.0-cp37-none-linux_armv7l.whl&response-content-type=application%2Foctet-stream
+Resolving github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)... 52.216.144.107
+Connecting to github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.144.107|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-09-21 10:16:29 ERROR 403: Forbidden.
+
